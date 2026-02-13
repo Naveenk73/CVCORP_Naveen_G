@@ -69,7 +69,7 @@ else:
 # Output 3  :  Invalid Inputs
 
 
-# Solution - I
+# Solution - II
 
 n1 = int(input())
 n2 = int(input())
@@ -90,3 +90,4 @@ else:
                 print(i, end=" ")
     
     
+
